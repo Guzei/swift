@@ -36,4 +36,6 @@ Collection
 * Set
 * Dictionary
 
+* Enum
+
 
