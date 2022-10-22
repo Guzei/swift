@@ -1,6 +1,10 @@
-// #  Collection -> Array
-//  [] - is Collection
-
+/*
+ SWIFT
+ Cheat Sheet for ARRAY
+ Collection -> Array
+ [] - is Collection
+*/
+// MARK: - Вспомогательные переменные
 var b: Bool
 var i: Int
 var j: Int?
