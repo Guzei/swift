@@ -1,6 +1,7 @@
-//  -- CRIB for Enum -- //
-
 /*
+ SWIFT
+ Cheat Sheet for ENUM // 2022-10-22
+ 
  https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html
  https://swiftbook.ru/content/languageguide/enumerations/
  https://www.raywenderlich.com/7320-getting-to-know-enum-struct-and-class-types-in-swift#toc-anchor-009
