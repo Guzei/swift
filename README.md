@@ -1,14 +1,16 @@
 # Cheat Sheet for Swift
 
 # Sources
-EN:
-* [developer.apple.com](https://developer.apple.com/documentation/swift/)
-* [swift.org](https://www.swift.org)
-
-RU:
-* [swiftbook.ru](https://swiftbook.ru)
-* [swiftbook.org](https://swiftbook.org/courses)
-Вячеслав Белый: [основы swift]https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf
+* EN:
+ * [developer.apple.com](https://developer.apple.com/documentation/swift/)
+ * [swift.org](https://www.swift.org)
+ * [Stanford - Developing iOS 11 Apps with Swift [2017-18]](https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
+* RU:
+ * [swiftbook.ru](https://swiftbook.ru)
+ * [swiftbook.org](https://swiftbook.org/courses)
+ * [MadiSpace](https://www.youtube.com/MadiSpace)
+ * [Теория языка Swift on Swiftboor.ru](https://www.youtube.com/playlist?list=PLtovLaW_R9-PUVWIFRq_V6s4JxE_Mj2ha)
+ * Вячеслав Белый: [основы swift]https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf
 
 # Операторы
 ```
