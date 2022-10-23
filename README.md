@@ -4,7 +4,7 @@
 * EN:
 1. [developer.apple.com](https://developer.apple.com/documentation/swift/)
 1. [swift.org](https://www.swift.org)
-1. [Stanford - Developing iOS 11 Apps with Swift 2017-18] (https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
+1. [Stanford - Developing iOS 11 Apps with Swift 2017-18](https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
 * RU:
 1. [swiftbook.ru](https://swiftbook.ru)
 1. [swiftbook.org](https://swiftbook.org/courses)
