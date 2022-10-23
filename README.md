@@ -42,12 +42,10 @@
 * Boolean
 * String
 * Character
-
-Collection
+* Collection
 * [Array](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/array.playground/Contents.swift)
 * [Set](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/set.playground/Contents.swift)
 * Dictionary
-
 * Enum
 * Function () -> ()
 
