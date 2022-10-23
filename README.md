@@ -26,17 +26,18 @@
 # Типы
 ## 
 * Int, UInt (8, 16, 32, 64) // UInt64.max
-* Double, Float 
+* Double, Float, Float80
 * Boolean
 * String
 * Character
 
 Collection
-* [Array](https://github.com/Guzei/swift/blob/main/array.playground/Contents.swift)
-* Set
+* [Array](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/array.playground/Contents.swift)
+* [Set](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/set.playground/Contents.swift)
 * Dictionary
 
 * Enum
 * Function () -> ()
 
-
+# Ветвления
+[if & switch](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/branching.playground/Contents.swift)
