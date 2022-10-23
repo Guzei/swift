@@ -1,5 +1,14 @@
 # Cheat Sheet for Swift
 
+# Sources
+EN:
+* [developer.apple.com](https://developer.apple.com/documentation/swift/)
+* [swift.org](https://www.swift.org)
+RU:
+* [swiftbook.ru](https://swiftbook.ru)
+* [swiftbook.org](https://swiftbook.org/courses)
+Вячеслав Белый: [основы swift]https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf
+
 # Операторы
 ```
 + сложение
@@ -24,7 +33,7 @@
 ```
 
 # Типы
-## 
+
 * Int, UInt (8, 16, 32, 64) // UInt64.max
 * Double, Float, Float80
 * Boolean
