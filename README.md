@@ -1,4 +1,4 @@
-# swift cribs
+# Cheat Sheet for Swift
 
 # Операторы
 ```
@@ -32,10 +32,11 @@
 * Character
 
 Collection
-* Array
+* [Array](https://github.com/Guzei/swift/blob/main/array.playground/Contents.swift)
 * Set
 * Dictionary
 
 * Enum
+* Function () -> ()
 
 
