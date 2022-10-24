@@ -1,16 +1,32 @@
+> [Markdown](https://daringfireball.net/projects/markdown/)
+
 # Cheat Sheet for Swift
 
-# Sources
-* EN:
-1. [developer.apple.com](https://developer.apple.com/documentation/swift/)
-1. [swift.org](https://www.swift.org)
-1. [Stanford - Developing iOS 11 Apps with Swift 2017-18](https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
-* RU:
-1. [swiftbook.ru](https://swiftbook.ru)
-1. [swiftbook.org](https://swiftbook.org/courses)
-1. [MadiSpace](https://www.youtube.com/MadiSpace)
-1. [Теория языка Swift on Swiftboor.ru](https://www.youtube.com/playlist?list=PLtovLaW_R9-PUVWIFRq_V6s4JxE_Mj2ha)
-1. Вячеслав Белый: [основы swift](https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf)
+# Sources for Swift
+In English, the main documentation is from [Apple developer][Apple developer]. Apple also created the [Swift community][Swift community]. In 2017-2018, Stanford University published a lecture course CS193P on [iOS 11 app development with Swift][Stanford] on YouTube.
+
+On english main documentation on [Apple developer][Apple developer]. Also Apple make [Swift community][Swift community]. In 20172018 Stanford Univercity record to YouTube cors about [Developing iOS 11 Apps with Swift][Stanford]
+
+[Apple developer]: https://developer.apple.com/documentation/swift/
+[Swift community]: https://www.swift.org
+[Stanford]: https://youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_  "EN, YouTube"
+
+
+По-русски полезный (переводной-коммерческий) сайт [swiftbook.ru][swiftbook.ru] и его новый вариант с платынми видеокурсами [swiftbook.org][swiftbook.org]. На ютубе множество курсов на разный вкус и разного качества.
+* Легко смотрятся видосы от [MadiSpace][MadiSpace]
+* и [Вячеслава Белого][Belii]
+* Нв SwiftBook есть и [Курс по теории языка Swift][SwiftBook 1], и [Копошилка][Swiftbook 2] с "фишками" и много ещё.
+* Так же можно сказать спасибо Ivan Skorokhod за [перевод станфордских лекций][Ivan Skorokhod] 
+* В 2020 Ian Solomein сделал [множество уроков][Ian Solomein]
+
+[swiftbook.ru]: https://swiftbook.ru/content/docs/  "RU"
+[Swiftbook 1]: https://www.youtube.com/playlist?list=PLtovLaW_R9-PUVWIFRq_V6s4JxE_Mj2ha
+[SwiftBook 2]: https://www.youtube.com/playlist?list=PLtovLaW_R9-PmRcQ0tdIgHEpf5L4nBMOH
+[swiftbook.org]: https://swiftbook.org/courses
+[MadiSpace]: https://www.youtube.com/MadiSpace
+[Belii]: https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf
+[Ivan Skorokhod]: https://www.youtube.com/channel/UChfEfFKYILtO5yZSX2irynw
+[Ian Solomein]: https://www.youtube.com/c/IanSolomein/featured
 
 # Операторы
 ```
