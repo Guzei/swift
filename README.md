@@ -15,9 +15,12 @@ On english main documentation on [Apple developer][Apple developer]. Also Apple 
 По-русски полезный (переводной-коммерческий) сайт [swiftbook.ru][swiftbook.ru] и его новый вариант с платынми видеокурсами [swiftbook.org][swiftbook.org]. На ютубе множество курсов на разный вкус и разного качества.
 * Легко смотрятся видосы от [MadiSpace][MadiSpace]
 * и [Вячеслава Белого][Belii]
+* живой канал [justaSid][justaSid]
 * Нв SwiftBook есть и [Курс по теории языка Swift][SwiftBook 1], и [Копошилка][Swiftbook 2] с "фишками" и много ещё.
 * Так же можно сказать спасибо Ivan Skorokhod за [перевод станфордских лекций][Ivan Skorokhod] 
 * В 2020 Ian Solomein сделал [множество уроков][Ian Solomein]
+* С 2013 по 2018 [Alex Skutarenko со своей подачей материала][Alex Skutarenko]
+* С 2017 по 2018 [Евгений Зверик][The Swift Developers] записал много видео
 
 [swiftbook.ru]: https://swiftbook.ru/content/docs/  "RU"
 [Swiftbook 1]: https://www.youtube.com/playlist?list=PLtovLaW_R9-PUVWIFRq_V6s4JxE_Mj2ha
@@ -27,6 +30,9 @@ On english main documentation on [Apple developer][Apple developer]. Also Apple 
 [Belii]: https://youtube.com/playlist?list=PLnlik7Rjo4n2lNGklbWwvsmqgd-D9HqZf
 [Ivan Skorokhod]: https://www.youtube.com/channel/UChfEfFKYILtO5yZSX2irynw
 [Ian Solomein]: https://www.youtube.com/c/IanSolomein/featured
+[Alex Skutarenko]: https://www.youtube.com/c/AlexSkutarenko/featured
+[The Swift Developers]: https://www.youtube.com/channel/UCiyiEAeWUuuPj6tt_jePALQ
+[justaSid]: https://www.youtube.com/channel/UCzEEFRoqIZht9kSGFhtScbA  "Дата регистрации: 28 дек. 2019 г."
 
 # Операторы
 ```
