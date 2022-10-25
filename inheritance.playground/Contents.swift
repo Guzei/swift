@@ -5,12 +5,9 @@
 // https://swiftbook.ru/content/languageguide/inheritance/
 // https://youtu.be/1D-DFsNS1tY - MadiSpace - 22 дек. 2021 г. - чуть больше минимума
 // https://youtu.be/70wPY4QbSzY - Ian Solomein - 17 июл. 2020 г. - необходимый минимум
+// https://youtu.be/rC8IRPsgPa4 - justaSid - минимум
 // https://youtu.be/ldWWugGV1fg28 - The Swift Developers (Evgeny Zverik) - 28 февр. 2017 г. - интерфейс устраревает, но суть остаётся
 // https://youtu.be/PWDx6z0wnoY - Alex Skutarenko - 17 мар. 2015 г.
-
-
-
-
 
 
 class   BaseClass{}
