@@ -72,4 +72,7 @@ On english main documentation on [Apple developer][Apple developer]. Also Apple 
 * Function () -> ()
 
 # Ветвления (if, switch)
-[if & switch] (https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/branching.playground/Contents.swift)
+[if & switch](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/branching.playground/Contents.swift)
+
+# ООП
+[inheritanse - наследование](https://github.com/Guzei/swift/blob/1fbab3348d2087b601af06103c684e801352fee0/inheritance.playground/Contents.swift)
