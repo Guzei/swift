@@ -65,14 +65,14 @@ On english main documentation on [Apple developer][Apple developer]. Also Apple 
 * String
 * Character
 * Collection
-* [Array](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/array.playground/Contents.swift)
-* [Set](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/set.playground/Contents.swift)
+* [Array](https://github.com/Guzei/swift/blob/main/array.playground/Contents.swift)
+* [Set](https://github.com/Guzei/swift/blob/main/set.playground/Contents.swift)
 * Dictionary
 * Enum
 * Function () -> ()
 
 # Ветвления (if, switch)
-[if & switch](https://github.com/Guzei/swift/blob/10300af73d954aced674c1ec27ebd47f5e912f3f/branching.playground/Contents.swift)
+[if & switch](https://github.com/Guzei/swift/blob/main/branching.playground/Contents.swift)
 
 # ООП
-[inheritanse - наследование](https://github.com/Guzei/swift/blob/1fbab3348d2087b601af06103c684e801352fee0/inheritance.playground/Contents.swift)
+[inheritanse - наследование](https://github.com/Guzei/swift/blob/main/inheritance.playground/Contents.swift)
