@@ -13,10 +13,13 @@ var dd: Dictionary<Int, String>.Element?
 
 // MARK: - Объявление словаря
 // Коллекция показывается квадратными скобками, а тип коллекции синтаксисом.
-var d11: [Int:String]        // Без инициализации. Вообще ничего нельзя делать пока. Даже isEmpty.
-var d12: [Int:String] = [:]  // Как d11, но с инициализацией
-var d21: Dictionary<Int,String>                  // Без инициализации. Явно указывается тип коллекции и тип её элементов.
-var d22: Dictionary<Int,String> = Dictionary()   // Как d21, но с инициализацией
+var d11: [Int:String]                   // Без инициализации. Вообще ничего нельзя делать пока. Даже isEmpty.
+var d21: Dictionary<Int,String>         // Без инициализации. Явно указывается тип коллекции и тип её элементов.
+
+var d12: [Int:String] = [:]                     // Как d11, но с инициализацией
+var d13: [Int:String] = Dictionary()            // как d11, но с инициализацией
+var d22: Dictionary<Int,String> = [:]           // Как d21, но с инициализацией
+var d23: Dictionary<Int,String> = Dictionary()  // Как d21, но с инициализацией
 // var d = [Int:String]   // Error: Expected member name or constructor call after type name // требуется инициализитор как в 3.
 var d = [Int:String]()   // Квадратные скобки обозначают коллекцию, синтаксис обозначает словарь, а круглые скобки инициализуют пустой словарь.
 d.isEmpty   // true
