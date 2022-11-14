@@ -84,7 +84,7 @@ enum AA {
 
 extension AA {
     init(d: Int) {
-        self = .b(a: d, b: d*2, c: d*3) // b(a: 1, b: 1, c: 1)
+        self = .b(a: d, b: d*2, c: d*3) // b(a: 1, b: 2, c: 3)
     }
 }
 
