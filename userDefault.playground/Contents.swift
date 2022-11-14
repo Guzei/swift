@@ -159,6 +159,20 @@ var e2: Colors {
 print("e2:", e2)                                            // get from DB
 e2 = .red                                                   // set in   DB
 
+var e3: Colors? {
+    get {
+        return Colors(rawValue: db.string(forKey: "ke3") ?? "")
+    }
+    set {
+        if let nv = newValue {
+            db.set(nv.rawValue, forKey: "ke3")
+        }
+    }
+}
+print("e3:", e3)
+//e3 = .red
+
+
 // MARK: - Dictionary + Enum
 print("\n-- Dictionary + Enum --")
 
@@ -168,8 +182,11 @@ var de: Dictionary<Colors, Int> {
         if let dsi = db.dictionary(forKey: "kde") as? [String:Int] {
             print("de: dsa", dsi)
             for (s,i) in dsi {
-                let e = Colors(rawValue: s) ?? .noColor     // convert String to Enum
-                dei[e] = i
+                if let e = Colors(rawValue: s) {            // convert String to Enum
+                    dei[e] = i
+                } else {
+                    print("No color for", s)
+                }
             }
         } else {
             print("no data for key \"kde\"")
