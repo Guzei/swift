@@ -123,10 +123,9 @@ class C12_: C12, P12 { required override init() {} }
 //struct S13: P13 {} // Non-class type 'S13' cannot conform to class protocol 'P13'
   class  C13: P13 {}
 var v13 = C13()
-v13 is P13 // true
-var b = v13 as P13
-//b = v13 as? P13
-//b = v13 as! P13
+var b = v13 as P13 // true
+if ((v13 as? P13) == nil) {}
+v13 as! P13  // C13
 
 // TODO: Protocol extension - P8?
 
