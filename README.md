@@ -57,19 +57,44 @@ On english main documentation on [Apple developer][Apple developer]. Also Apple 
 ??  -- мягкое извлечение опционала
 ```
 
-# Типы
+# Types
 
+## Value types / Типы значений
+### Primitives types
 * Int, UInt (8, 16, 32, 64) // UInt64.max
 * Double, Float, Float80
 * Boolean
 * String
 * Character
-* Collection
+### ...
+* [Protocol](https://github.com/Guzei/swift/blob/main/protocol.playground/Contents.swift)
+* Struct
+* Enum (not inderect)
+* Tuples / Кортежи
+
+## Referens types / Ссылочные типы
+* classes
+* Function // Function type () -> ()
+* Inderect Enums
+* Actors
+
+## Collection types
 * [Array](https://github.com/Guzei/swift/blob/main/array.playground/Contents.swift)
 * [Set](https://github.com/Guzei/swift/blob/main/set.playground/Contents.swift)
 * Dictionary
 * Enum
-* Function () -> ()
+
+# Memory
+## Heap (куча)
+* referens types non fix size & unnown time life
+* при соблюдении протокола (...экзитенциальные контейнеры...)
+* смешенный тип (класс в структуре и наоборот)
+* сбегающее замыкание
+* inout параметр
+
+## Stack (временная память, более быстрая)
+* value types
+* referens types with fix size or time life
 
 # Ветвления (if, switch)
 [if & switch](https://github.com/Guzei/swift/blob/main/branching.playground/Contents.swift)
