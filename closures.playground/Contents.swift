@@ -22,7 +22,7 @@
 // }
 
 let unsortedNumbers: [Int] = [7, 3, 22, 55, 11, 1, 3, 9, 12, 4, 910, 751]
-func filterArray(_ numbers: [Int], closure: Int -> Bool) -> [Int] {
+func filterArray(_ numbers: [Int], closure: (Int) -> Bool) -> [Int] {
     var result = [Int]()
     for number in numbers {
         if closure(number) {
