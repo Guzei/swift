@@ -1,5 +1,5 @@
 /*
- SWIFT // 2022-10-23
+ SWIFT // 2022-10-24
  Cheat Sheet for Collection -> Dictionary
  Словарь - коллекция с ключами любого одинакового типа
 */
