@@ -84,7 +84,7 @@ enum AA {
 
 extension AA {
     init(d: Int) {
-        self = .b(a: d, b: d*2, c: d*3) // b(a: 1, b: 2, c: 3)
+        self = .b(a: d, b: d*2, c: d*3) // b(a: 2, b: 4, c: 6)
     }
 }
 
@@ -100,7 +100,7 @@ extension AA {
 let aa1 = AA.a(a: .a)               // a(a: __lldb_expr_87.AS.a)
 let aa2 = AA.a(a: .b)               // a(a: __lldb_expr_114.AS.b)
 let aa3 = AA.b(a: 9, b: 8, c: 7)    // b(a: 9, b: 8, c: 7)
-let aa4 = AA(d: 1)                  // b(a: 1, b: 2, c: 3)
+let aa4 = AA(d: 2)                  // b(a: 2, b: 4, c: 6)
 aa1.v                               // "a a"
 aa2.v                               // "b b"
 aa3.v                               // 9, 8, 7
