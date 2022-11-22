@@ -194,6 +194,8 @@ var de: Dictionary<Colors, Int> {
         }
         return dei
     }
+    // но так плохо. Перебирается весь словарь, когда надо изменить одно значение.
+    // Лучше делать много ключей
     set {
         print("de: New value for kde is:", newValue)
         var d: Dictionary<String, Int> = [:]
@@ -205,3 +207,6 @@ var de: Dictionary<Colors, Int> {
 }
 print("de: current value is:", de)
 de = [.green:2, .red:3]
+
+
+// removeObject
